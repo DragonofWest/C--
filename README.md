@@ -15,14 +15,13 @@ This program is to make a list of people, and thier favorite books. The goal is 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [w3schools C++](https://www.w3schools.com/cpp/)
 * [Code Academy](https://www.codecademy.com/)
-* [Incert] (http:here)
+* [Insert] (http://www.here.com)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 * Search for Titles of books
-* Item 2
-* Item 3
+* Link LA County library system to search
+* 
