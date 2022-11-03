@@ -4,7 +4,7 @@ I am writeing this to see if I can create a class and small data structure to ke
 
 This program is to make a list of people, and thier favorite books. The goal is to get a list from a library and beable to search to see if the library has the favorite books.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/nP6S6eKZd70)
 
 # Development Environment
 
@@ -21,7 +21,6 @@ This program is to make a list of people, and thier favorite books. The goal is 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Search for Titles of books
 * Link LA County library system to search
 * 

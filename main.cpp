@@ -1,7 +1,7 @@
 // by Kevin Kelly
 #include <iostream>
 #include <string>
-
+#include <info.cpp>
 
 int main(){
         cout << "What is your Frist Name? ";
@@ -11,5 +11,5 @@ int main(){
         cout << "What is your favorite book? ";
         getline (cin, favoriteBook);
     return 0;
-    
+
 }
